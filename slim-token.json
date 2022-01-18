@@ -1,7 +1,7 @@
 {
   "Slim": {
     "Accent": {
-      "value": "#249BB2",
+      "value": "#249bb2",
       "type": "color"
     },
     "Positive": {
@@ -479,6 +479,20 @@
     "Radii - 6": {
       "value": "6",
       "type": "borderRadius"
+    },
+    "Dark": {
+      "5%": {
+        "value": "#0000000d",
+        "type": "color"
+      },
+      "10%": {
+        "value": "#0000001a",
+        "type": "color"
+      },
+      "20%": {
+        "value": "#00000033",
+        "type": "color"
+      }
     }
   }
 }
