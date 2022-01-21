@@ -493,6 +493,14 @@
         "value": "#00000033",
         "type": "color"
       }
+    },
+    "Turmeric": {
+      "value": "#ffcc66",
+      "type": "color"
+    },
+    "Backdrop": {
+      "value": "#202a3d",
+      "type": "color"
     }
   }
 }
