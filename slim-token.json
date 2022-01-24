@@ -1,21 +1,5 @@
 {
-  "Slim": {
-    "Accent": {
-      "value": "#249bb2",
-      "type": "color"
-    },
-    "Positive": {
-      "value": "#2e9987",
-      "type": "color"
-    },
-    "Negative": {
-      "value": "#992e40",
-      "type": "color"
-    },
-    "White": {
-      "value": "#ffffff",
-      "type": "color"
-    },
+  "Light": {
     "Grey": {
       "8": {
         "value": "#141414",
@@ -55,6 +39,10 @@
       },
       "98": {
         "value": "#fafafa",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffffff",
         "type": "color"
       }
     },
@@ -480,20 +468,6 @@
       "value": "6",
       "type": "borderRadius"
     },
-    "Dark": {
-      "5%": {
-        "value": "#0000000d",
-        "type": "color"
-      },
-      "10%": {
-        "value": "#0000001a",
-        "type": "color"
-      },
-      "20%": {
-        "value": "#00000033",
-        "type": "color"
-      }
-    },
     "Turmeric": {
       "value": "#ffcc66",
       "type": "color"
@@ -501,6 +475,28 @@
     "Backdrop": {
       "value": "#202a3d",
       "type": "color"
+    },
+    "Positive": {
+      "value": "#2e9987",
+      "type": "color"
+    },
+    "Negative": {
+      "value": "#992e40",
+      "type": "color"
+    },
+    "Opacity": {
+      "Dark 5%": {
+        "value": "#0000000d",
+        "type": "color"
+      },
+      "Dark 10%": {
+        "value": "#0000001a",
+        "type": "color"
+      },
+      "Dark 20%": {
+        "value": "#00000033",
+        "type": "color"
+      }
     }
   }
 }
