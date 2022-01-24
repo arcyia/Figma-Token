@@ -497,6 +497,22 @@
         "value": "#00000033",
         "type": "color"
       }
+    },
+    "Gap - 2": {
+      "value": "2",
+      "type": "spacing"
+    },
+    "Gap - 4": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "Gap - 6": {
+      "value": "6",
+      "type": "spacing"
+    },
+    "Gap - 8": {
+      "value": "8",
+      "type": "spacing"
     }
   }
 }
