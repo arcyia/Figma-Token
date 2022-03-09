@@ -46,6 +46,719 @@
         "type": "color"
       }
     },
+    "Turmeric": {
+      "value": "#ffcc66",
+      "type": "color"
+    },
+    "Backdrop": {
+      "value": "#202a3d",
+      "type": "color"
+    },
+    "Positive": {
+      "value": "#2e9987",
+      "type": "color"
+    },
+    "Negative": {
+      "value": "#992e40",
+      "type": "color"
+    },
+    "Opacity": {
+      "Dark 5%": {
+        "value": "#0000000d",
+        "type": "color"
+      },
+      "Dark 10%": {
+        "value": "#0000001a",
+        "type": "color"
+      },
+      "Dark 20%": {
+        "value": "#00000033",
+        "type": "color"
+      },
+      "Primary 90%": {
+        "value": "#ffcc66e6",
+        "type": "color"
+      },
+      "Primary 80%": {
+        "value": "#ffcc66cc",
+        "type": "color"
+      },
+      "Light 90%": {
+        "value": "#ffffffe6",
+        "type": "color"
+      },
+      "Light 80%": {
+        "value": "#ffffffcc",
+        "type": "color"
+      },
+      "Light 60%": {
+        "value": "#ffffff99",
+        "type": "color"
+      },
+      "Light 50%": {
+        "value": "#ffffff80",
+        "type": "color"
+      },
+      "Light 40%": {
+        "value": "#ffffff66",
+        "type": "color"
+      },
+      "Light 30%": {
+        "value": "#ffffff4d",
+        "type": "color"
+      },
+      "Light 20%": {
+        "value": "#ffffff33",
+        "type": "color"
+      },
+      "Light 10%": {
+        "value": "#ffffff1a",
+        "type": "color"
+      },
+      "Light 5%": {
+        "value": "#ffffff0d",
+        "type": "color"
+      },
+      "Dark 50%": {
+        "value": "#00000080",
+        "type": "color"
+      },
+      "Dark 40%": {
+        "value": "#00000066",
+        "type": "color"
+      },
+      "Dark 30%": {
+        "value": "#0000004d",
+        "type": "color"
+      }
+    },
+    "Primary": {
+      "value": "#ffcc66",
+      "type": "color"
+    },
+    "Primary 800": {
+      "value": "#3d3118",
+      "type": "color"
+    },
+    "Secondary 900": {
+      "value": "#221f29",
+      "type": "color"
+    },
+    "Secondary 800": {
+      "value": "#2f2b38",
+      "type": "color"
+    },
+    "Secondary 700": {
+      "value": "#453e52",
+      "type": "color"
+    },
+    "Button Primary": {
+      "value": "linear-gradient(180deg, #ffd480 0%, #f2b661 100%)",
+      "type": "color"
+    },
+    "Trend": {
+      "Standard": {
+        "value": "#3d85cc",
+        "type": "color"
+      },
+      "Rise": {
+        "value": "#3fd1b9",
+        "type": "color"
+      },
+      "Rise Gradient": {
+        "value": "linear-gradient(180deg, #3fd1b926 0%, #3fd1b900 100%)",
+        "type": "color"
+      },
+      "Rise 70%": {
+        "value": "#3fd1b9b3",
+        "type": "color"
+      },
+      "Drop": {
+        "value": "#e0314f",
+        "type": "color"
+      },
+      "Drop Gradient": {
+        "value": "linear-gradient(180deg, #e0314f4d 0%, #cc294400 100%)",
+        "type": "color"
+      },
+      "Drop 70%": {
+        "value": "#e0314fb3",
+        "type": "color"
+      }
+    },
+    "Sans Serif": {
+      "300": {
+        "10": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "12": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "14": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "16": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.3",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "17": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.4",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "21": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.5",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "25": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.6",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "30": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.7",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "36": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.8",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        }
+      },
+      "400": {
+        "10": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-1",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "12": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-1",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "14": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-1",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "16": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-1",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.3",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "17": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-1",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.4",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "21": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-1",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.5",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "25": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-1",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.6",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "30": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-1",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.7",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "36": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-1",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.8",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        }
+      },
+      "600": {
+        "10": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-0",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "12": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-0",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "14": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-0",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "16": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-0",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.3",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "17": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-0",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.4",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "21": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-0",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.5",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "25": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-0",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.6",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "30": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-0",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.7",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "36": {
+          "value": {
+            "fontFamily": "$fontFamilies.pingfang-sc",
+            "fontWeight": "$fontWeights.pingfang-sc-0",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.8",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "Outfit": {
+      "400": {
+        "10": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-4",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.2",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "12": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-4",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.2",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "14": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-4",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.2",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "16": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-4",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.3",
+            "letterSpacing": "$letterSpacing.2",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "17": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-4",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.4",
+            "letterSpacing": "$letterSpacing.2",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "21": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-4",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.5",
+            "letterSpacing": "$letterSpacing.2",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "25": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-4",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.6",
+            "letterSpacing": "$letterSpacing.2",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "30": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-4",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.7",
+            "letterSpacing": "$letterSpacing.2",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        }
+      },
+      "600": {
+        "10": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-3",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.1",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "12": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-3",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.1",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "14": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-3",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.1",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "16": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-3",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.3",
+            "letterSpacing": "$letterSpacing.1",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "17": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-3",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.4",
+            "letterSpacing": "$letterSpacing.1",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "21": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-3",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.5",
+            "letterSpacing": "$letterSpacing.1",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "25": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-3",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.6",
+            "letterSpacing": "$letterSpacing.1",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "30": {
+          "value": {
+            "fontFamily": "$fontFamilies.outfit",
+            "fontWeight": "$fontWeights.outfit-3",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.7",
+            "letterSpacing": "$letterSpacing.1",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        }
+      }
+    },
     "fontFamilies": {
       "pingfang-sc": {
         "value": "PingFang SC",
@@ -82,453 +795,7 @@
       "outfit-4": {
         "value": "Regular",
         "type": "fontWeights"
-      },
-      "outfit-5": {
-        "value": "Light",
-        "type": "fontWeights"
       }
-    },
-    "2XS": {
-      "value": "10",
-      "type": "fontSizes"
-    },
-    "XS": {
-      "value": "12",
-      "type": "fontSizes"
-    },
-    "S": {
-      "value": "14",
-      "type": "fontSizes"
-    },
-    "M": {
-      "value": "16",
-      "type": "fontSizes"
-    },
-    "L": {
-      "value": "17",
-      "type": "fontSizes"
-    },
-    "XL": {
-      "value": "21",
-      "type": "fontSizes"
-    },
-    "2XL": {
-      "value": "25",
-      "type": "fontSizes"
-    },
-    "3XL": {
-      "value": "30",
-      "type": "fontSizes"
-    },
-    "letterSpacing": {
-      "0": {
-        "value": "0%",
-        "type": "letterSpacing"
-      }
-    },
-    "paragraphSpacing": {
-      "0": {
-        "value": "0",
-        "type": "paragraphSpacing"
-      }
-    },
-    "Sans Serif": {
-      "300": {
-        "10": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-2",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{2XS}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "12": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-2",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{XS}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "14": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-2",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{S}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "16": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-2",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{M}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "17": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-2",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{L}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "21": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-2",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{XL}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "25": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-2",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{2XL}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "30": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-2",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{3XL}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        }
-      },
-      "400": {
-        "10": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-1",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{2XS}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "12": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-1",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{XS}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "14": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-1",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{S}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "16": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-1",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{M}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "17": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-1",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{L}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "21": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-1",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{XL}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "25": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-1",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{2XL}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "30": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-1",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{3XL}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        }
-      },
-      "600": {
-        "10": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-0",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{2XS}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "12": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-0",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{XS}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "14": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-0",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{S}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "16": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-0",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{M}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "17": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-0",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{L}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "21": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-0",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{XL}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "25": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-0",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{2XL}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "30": {
-          "value": {
-            "fontFamily": "$fontFamilies.pingfang-sc",
-            "fontWeight": "$fontWeights.pingfang-sc-0",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "{3XL}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      }
-    },
-    "Stroke - 1": {
-      "value": "0.5",
-      "type": "borderWidth"
-    },
-    "Stroke - 2": {
-      "value": "1",
-      "type": "borderWidth"
-    },
-    "Radii - 2": {
-      "value": "2",
-      "type": "borderRadius"
-    },
-    "Radii - 4": {
-      "value": "4",
-      "type": "borderRadius"
-    },
-    "Radii - 6": {
-      "value": "6",
-      "type": "borderRadius"
-    },
-    "Turmeric": {
-      "value": "#ffcc66",
-      "type": "color"
-    },
-    "Backdrop": {
-      "value": "#202a3d",
-      "type": "color"
-    },
-    "Positive": {
-      "value": "#2e9987",
-      "type": "color"
-    },
-    "Negative": {
-      "value": "#992e40",
-      "type": "color"
-    },
-    "Opacity": {
-      "Dark 5%": {
-        "value": "#0000000d",
-        "type": "color"
-      },
-      "Dark 10%": {
-        "value": "#0000001a",
-        "type": "color"
-      },
-      "Dark 20%": {
-        "value": "#00000033",
-        "type": "color"
-      }
-    },
-    "Gap - 2": {
-      "value": "2",
-      "type": "spacing"
-    },
-    "Gap - 4": {
-      "value": "4",
-      "type": "spacing"
-    },
-    "Gap - 6": {
-      "value": "6",
-      "type": "spacing"
-    },
-    "Gap - 8": {
-      "value": "8",
-      "type": "spacing"
     },
     "fontSize": {
       "0": {
@@ -562,326 +829,120 @@
       "7": {
         "value": "30",
         "type": "fontSizes"
+      },
+      "8": {
+        "value": "36",
+        "type": "fontSizes"
       }
     },
-    "Outfit": {
-      "300": {
-        "10": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-5",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.0",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "12": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-5",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.1",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "14": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-5",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.2",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "16": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-5",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.3",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "17": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-5",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.4",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "21": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-5",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.5",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "25": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-5",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.6",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "30": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-5",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.7",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        }
+    "letterSpacing": {
+      "0": {
+        "value": "0%",
+        "type": "letterSpacing"
       },
-      "400": {
-        "10": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-4",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.0",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "12": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-4",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.1",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "14": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-4",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.2",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "16": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-4",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.3",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "17": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-4",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.4",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "21": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-4",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.5",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "25": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-4",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.6",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "30": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-4",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.7",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        }
+      "1": {
+        "value": "6%",
+        "type": "letterSpacing"
       },
-      "600": {
-        "10": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-3",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.0",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
+      "2": {
+        "value": "4%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "Focus Light 20": {
+      "value": {
+        "color": "#ffffff33",
+        "type": "innerShadow",
+        "x": 0,
+        "y": -200,
+        "blur": 0,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    },
+    "Focus Light 5": {
+      "value": {
+        "color": "#ffffff0d",
+        "type": "innerShadow",
+        "x": 0,
+        "y": -200,
+        "blur": 0,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    },
+    "Focus Light 3": {
+      "value": {
+        "color": "#ffffff08",
+        "type": "innerShadow",
+        "x": 0,
+        "y": -200,
+        "blur": 0,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    },
+    "Focus Dark 5": {
+      "value": {
+        "color": "#0000000d",
+        "type": "innerShadow",
+        "x": 0,
+        "y": -200,
+        "blur": 0,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    },
+    "Shadow": {
+      "Float S": {
+        "value": {
+          "color": "#0000001a",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 8,
+          "blur": 16,
+          "spread": 0
         },
-        "12": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-3",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.1",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+        "type": "boxShadow"
+      },
+      "Popover": {
+        "value": [
+          {
+            "color": "#0000001a",
+            "type": "dropShadow",
+            "x": 0,
+            "y": 16,
+            "blur": 48,
+            "spread": 0
           },
-          "type": "typography"
-        },
-        "14": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-3",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.2",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "16": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-3",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.3",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "17": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-3",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.4",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "21": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-3",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.5",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "25": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-3",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.6",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        },
-        "30": {
-          "value": {
-            "fontFamily": "$fontFamilies.outfit",
-            "fontWeight": "$fontWeights.outfit-3",
-            "lineHeight": "$lineHeights.0",
-            "fontSize": "$fontSize.7",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
-          },
-          "type": "typography"
-        }
+          {
+            "color": "#0000001a",
+            "type": "dropShadow",
+            "x": 0,
+            "y": 8,
+            "blur": 24,
+            "spread": 0
+          }
+        ],
+        "type": "boxShadow"
       }
     }
   }
