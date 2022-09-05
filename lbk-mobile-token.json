@@ -876,13 +876,25 @@
         }
       }
     },
-    "spacing-16": {
-      "value": "16",
-      "type": "spacing"
+    "symbolSize-12": {
+      "value": "12",
+      "type": "sizing"
     },
-    "gap-8": {
+    "spacing-8": {
       "value": "8",
       "type": "spacing"
+    },
+    "Radius-4": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "Stroke-1": {
+      "value": "1",
+      "type": "borderWidth"
+    },
+    "Opacity-10%": {
+      "value": "10%",
+      "type": "opacity"
     }
   },
   "$themes": [],
